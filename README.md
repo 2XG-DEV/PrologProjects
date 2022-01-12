@@ -266,7 +266,7 @@ Matrix inversion for 2x2 matrix
 
 Formula:
 
-[2x2Formula](https://github.com/2XG-DEV/PrologProjects/blob/main/2x2InverseFormula.PNG)
+[2x2Formula](https://github.com/2XG-DEV/PrologProjects/blob/main/2x2InverseFormula.PNG?raw=true)
 
 
 test Det \\= 0  , because not every matrix has an inverse.
